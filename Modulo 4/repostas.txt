@@ -1,0 +1,17 @@
+staff
+sales_outlet
+sales_transaction
+customer
+product
+
+
+customer_name
+customer_email
+customer_card_number
+customer_birthdate
+customer_gender
+
+date
+time
+quantity
+price
